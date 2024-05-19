@@ -3,12 +3,12 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This guide details the setup requirements and installation steps for the osTicket help desk system, an open-source ticketing solution.<br />
 
-
+<!--
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites]
+- ### [YouTube: How To Install osTicket with Prerequisites] / !-->
 
 <h2>Environments and Technologies Used</h2>
 
@@ -18,15 +18,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- PHPManagerForIIS_V.1.5.0.msi
+- rewrite_amd64_en-US.msi
+- php-7.3.8-nts-Win32-VC15-x86.zip
+- VC_redist.x86.exe
+- mysql-5.5.62-win32.msi
+- osTicket v1.15.8.zip
+- HeidiSQL
 
 <h2>Installation Steps</h2>
 
