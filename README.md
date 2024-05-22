@@ -30,21 +30,29 @@ This guide details the setup requirements and installation steps for the osTicke
 - osTicket v1.15.8.zip
 - HeidiSQL
 
+<b>Link for prerequisites: https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6<b/>
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://images2.imgbox.com/f5/c3/s0XopCSo_o.png" alt="imgbox"/>
+<img src="https://images2.imgbox.com/4e/26/fj4RKSC5_o.png" alt="image host"/></a>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 1: In order to begin, you need to create a virtual machine by going to https://portal.azure.com/. Create a virtual machine (VM) with Windows 10 Pro, version 22h2. Your machine needs at least 2vcpus and 16 gbs of memory. Allow the VM to create a new virtual network (Vnet).
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://images2.imgbox.com/1f/4c/cWFvMGCp_o.png" alt="imgbox"/><br />
+<img src="https://thumbs2.imgbox.com/26/af/Gboy1qGC_t.png" alt="image host"/></a>
+</p>
+Step 2: After your VM is created, you need to connect to it. Click on your virtual machine and locate the public IP address. You will connect to your machine using Remote Desktop Connection. Copy this address and open up the remote desktop connection. Paste the public IP address and select connect.
+</p>
+<br />
+
+<p>
+<img src="https://images2.imgbox.com/43/58/8iHFOb8d_o.png" alt="image host"/><b /><img src="https://images2.imgbox.com/ea/26/EheoO4J8_o.png" alt="image host"/></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 3: Now we need to install/enable IIS on your VM. Right click on the start button, choose run. Inside the run box type: control. Once your control panel opens click on programs, then turn Windows features on or pff.
 </p>
 <br />
 
