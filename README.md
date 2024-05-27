@@ -256,15 +256,10 @@ When the program is open you will create a new sesssion in it.
 You want to make sure the username is root and the password is Password1.
 
 <p>
-<img src="https://images2.imgbox.com/b8/10/DBr7aDFt_o.png" alt="image host"/></a>
+<img src="https://images2.imgbox.com/12/c7/zSNlMCto_o.png" alt="imgbox"/></a>
 </p>
 
 Once you are connected to the session, you will go back to the browser to finish setting everything up. Under the Database settings in the browswer, the username will be root and the password will be Password1.
-
-<p>
-<img src="https://images2.imgbox.com/12/c7/zSNlMCto_o.png" alt="imgbox"/></a>
-</p>
-</br>
 
 <p>
 Step 17: You will now create a new database withing HeidiSQL. In Heidi right click on the left side where it says "Unnamed", select "create new", and then select "database". Name the new database osTicket. Once we have the new database setup, go backt to the osTiceket browser and under MySQL Database type in osTicket.
