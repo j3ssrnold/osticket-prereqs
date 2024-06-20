@@ -208,7 +208,7 @@ This guide details the setup requirements and installation steps for the osTicke
 
 -  Go into the file explorer and search for C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php</b>
     -  You are going to rename the ost-sampleconfig.php to ost-config.php
-      -  Now that you have renamed the files, right click on the file and go to properties. From there click security, click on advanced, and disable the inheritance. You will select Remove all inherited permissions from this object.
+          -  Now that you have renamed the files, right click on the file and go to properties. From there click security, click on advanced, and disable the inheritance. You will select Remove all inherited permissions from this object.
 
     <p>
     <img src="https://i.imgur.com/iIEZVEa.png" title="source: imgur.com" /> </a>
