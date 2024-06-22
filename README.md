@@ -159,7 +159,7 @@ This guide details the setup requirements and installation steps for the osTicke
     </p>
 <br />
 
-- Reload IIS again. 
+-  Reload IIS again. 
 
     <p>
     <img src="https://i.imgur.com/4qIc0gt.png" title="source: imgur.com" /></a>
